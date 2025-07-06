@@ -1,1 +1,1 @@
-export const Api_Url = "http://localhost:5000/api";
+export const Api_Url = "https://fixfloatapi.onrender.com/api";
